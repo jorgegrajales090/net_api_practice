@@ -1,0 +1,494 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI\\LearningAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application.Interfaces\\LearningAPI.Application.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application.Interfaces\\LearningAPI.Application.Interfaces.csproj",
+        "projectName": "LearningAPI.Application.Interfaces",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application.Interfaces\\LearningAPI.Application.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.csproj",
+        "projectName": "LearningAPI.Application",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application.Interfaces\\LearningAPI.Application.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application.Interfaces\\LearningAPI.Application.Interfaces.csproj"
+              },
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.Interfaces.csproj",
+        "projectName": "LearningAPI.Application.Interfaces",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Data\\LearningAPI.Infraestructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Data\\LearningAPI.Infraestructure.Data.csproj",
+        "projectName": "LearningAPI.Infraestructure.Data",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Data\\LearningAPI.Infraestructure.Data.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj",
+        "projectName": "LearningAPI.Domain",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Infraestructure\\LearningAPI.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Infraestructure\\LearningAPI.Infraestructure.csproj",
+        "projectName": "LearningAPI.Infraestructure",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Infraestructure\\LearningAPI.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application.Interfaces\\LearningAPI.Application.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application.Interfaces\\LearningAPI.Application.Interfaces.csproj"
+              },
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.Interfaces.csproj"
+              },
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Data\\LearningAPI.Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Data\\LearningAPI.Infraestructure.Data.csproj"
+              },
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Domain\\LearningAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI\\LearningAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI\\LearningAPI.csproj",
+        "projectName": "LearningAPI",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI\\LearningAPI.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application.Interfaces\\LearningAPI.Application.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application.Interfaces\\LearningAPI.Application.Interfaces.csproj"
+              },
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.csproj"
+              },
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Application\\LearningAPI.Application.Interfaces.csproj"
+              },
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Data\\LearningAPI.Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Data\\LearningAPI.Infraestructure.Data.csproj"
+              },
+              "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Infraestructure\\LearningAPI.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LearningAPI\\LearningAPI.Infraestructure\\LearningAPI.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

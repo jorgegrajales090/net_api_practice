@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>false</InvariantGlobalization>
+    <UserSecretsId>92be2e97-6eef-4b7e-b005-4781bfebfd3c</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LearningAPI.Application.Interfaces\LearningAPI.Application.Interfaces.csproj" />
+    <ProjectReference Include="..\LearningAPI.Application\LearningAPI.Application.csproj" />
+    <ProjectReference Include="..\LearningAPI.Application\LearningAPI.Application.Interfaces.csproj" />
+    <ProjectReference Include="..\LearningAPI.Data\LearningAPI.Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\LearningAPI.Infraestructure\LearningAPI.Infraestructure.csproj" />
+  </ItemGroup>
+
+</Project>

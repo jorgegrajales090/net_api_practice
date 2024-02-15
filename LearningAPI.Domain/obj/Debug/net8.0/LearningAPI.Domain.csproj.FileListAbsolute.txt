@@ -1,0 +1,11 @@
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\bin\Debug\net8.0\LearningAPI.Domain.deps.json
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\bin\Debug\net8.0\LearningAPI.Domain.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\bin\Debug\net8.0\LearningAPI.Domain.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\obj\Debug\net8.0\LearningAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\obj\Debug\net8.0\LearningAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\obj\Debug\net8.0\LearningAPI.Domain.AssemblyInfo.cs
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\obj\Debug\net8.0\LearningAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\obj\Debug\net8.0\LearningAPI.Domain.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\obj\Debug\net8.0\refint\LearningAPI.Domain.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\obj\Debug\net8.0\LearningAPI.Domain.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Domain\obj\Debug\net8.0\ref\LearningAPI.Domain.dll

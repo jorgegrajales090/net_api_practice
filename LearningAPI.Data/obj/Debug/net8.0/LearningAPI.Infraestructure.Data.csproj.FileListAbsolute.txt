@@ -1,0 +1,17 @@
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\bin\Debug\net8.0\LearningAPI.Infraestructure.Data.deps.json
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\bin\Debug\net8.0\LearningAPI.Infraestructure.Data.runtimeconfig.json
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\bin\Debug\net8.0\LearningAPI.Infraestructure.Data.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\bin\Debug\net8.0\LearningAPI.Infraestructure.Data.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\bin\Debug\net8.0\LearningAPI.Domain.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\bin\Debug\net8.0\LearningAPI.Domain.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\LearningAPI.Infraestructure.Data.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\LearningAPI.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\LearningAPI.Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\LearningAPI.Infraestructure.Data.AssemblyInfo.cs
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\LearningAPI.Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\LearningAPI.Infraestructure.Data.csproj.CopyComplete
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\LearningAPI.Infraestructure.Data.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\refint\LearningAPI.Infraestructure.Data.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\LearningAPI.Infraestructure.Data.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\LearningAPI.Infraestructure.Data.genruntimeconfig.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Data\obj\Debug\net8.0\ref\LearningAPI.Infraestructure.Data.dll

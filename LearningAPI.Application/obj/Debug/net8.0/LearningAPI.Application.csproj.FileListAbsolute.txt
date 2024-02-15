@@ -1,0 +1,17 @@
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\bin\Debug\net8.0\LearningAPI.Application.deps.json
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\bin\Debug\net8.0\LearningAPI.Application.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\bin\Debug\net8.0\LearningAPI.Application.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\bin\Debug\net8.0\LearningAPI.Application.Interfaces.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\bin\Debug\net8.0\LearningAPI.Domain.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\bin\Debug\net8.0\LearningAPI.Application.Interfaces.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\bin\Debug\net8.0\LearningAPI.Domain.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\obj\Debug\net8.0\LearningAPI.Application.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\obj\Debug\net8.0\LearningAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\obj\Debug\net8.0\LearningAPI.Application.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\obj\Debug\net8.0\LearningAPI.Application.AssemblyInfo.cs
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\obj\Debug\net8.0\LearningAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\obj\Debug\net8.0\LearningAPI.Application.csproj.CopyComplete
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\obj\Debug\net8.0\LearningAPI.Application.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\obj\Debug\net8.0\refint\LearningAPI.Application.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\obj\Debug\net8.0\LearningAPI.Application.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application\obj\Debug\net8.0\ref\LearningAPI.Application.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LearningAPI.Application.Interfaces/1.0.0": {
+        "dependencies": {
+          "LearningAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LearningAPI.Application.Interfaces.dll": {}
+        }
+      },
+      "LearningAPI.Domain/1.0.0": {
+        "runtime": {
+          "LearningAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearningAPI.Application.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearningAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

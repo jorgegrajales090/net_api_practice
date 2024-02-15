@@ -1,0 +1,15 @@
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\bin\Debug\net8.0\LearningAPI.Application.Interfaces.deps.json
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\bin\Debug\net8.0\LearningAPI.Application.Interfaces.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\bin\Debug\net8.0\LearningAPI.Application.Interfaces.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\bin\Debug\net8.0\LearningAPI.Domain.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\bin\Debug\net8.0\LearningAPI.Domain.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\obj\Debug\net8.0\LearningAPI.Application.Interfaces.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\obj\Debug\net8.0\LearningAPI.Application.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\obj\Debug\net8.0\LearningAPI.Application.Interfaces.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\obj\Debug\net8.0\LearningAPI.Application.Interfaces.AssemblyInfo.cs
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\obj\Debug\net8.0\LearningAPI.Application.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\obj\Debug\net8.0\LearningAPI.Application.Interfaces.csproj.CopyComplete
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\obj\Debug\net8.0\LearningAPI.Application.Interfaces.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\obj\Debug\net8.0\refint\LearningAPI.Application.Interfaces.dll
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\obj\Debug\net8.0\LearningAPI.Application.Interfaces.pdb
+C:\Users\jorge\source\repos\LearningAPI\LearningAPI.Application.Interfaces\obj\Debug\net8.0\ref\LearningAPI.Application.Interfaces.dll
